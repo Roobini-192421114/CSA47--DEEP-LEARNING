@@ -1,0 +1,2 @@
+training_images,test_images,number_of_classes,requested_label_noise,actual_label_noise,test_accuracy,macro_f1,training_time_seconds,desktop_inference_ms_per_image,serialized_model_size_bytes,serialized_model_size_MiB,desktop_latency_below_50ms,serialized_size_below_5MB,smartphone_latency_verified,smartphone_size_verified
+10000,8146,38,0.2,0.2,0.4718880432113921,0.3441529514698643,24.35303090000525,0.4842693000100553,128491,0.12253856658935547,True,True,False,False

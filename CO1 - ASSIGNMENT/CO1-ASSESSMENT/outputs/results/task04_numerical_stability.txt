@@ -1,0 +1,6 @@
+Float32 result: 0.0
+Float64 result: 1.0
+Unstable softmax: [nan nan nan]
+Stable softmax: [0.09003057 0.24472847 0.66524096]
+Probability sum: 0.9999999999999999
+Stable log-sum-exp: 1002.4076059644444

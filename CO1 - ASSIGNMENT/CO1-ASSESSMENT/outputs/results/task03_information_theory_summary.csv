@@ -1,0 +1,7 @@
+quantity,value_bits,status
+Dataset entropy H(p),4.824904504199207,Measured from class counts
+Maximum entropy,5.247927513443585,Theoretical maximum
+Cross-entropy with uniform q,5.247927513443583,Illustrative uniform prediction
+KL(p || uniform q),0.42302300924437924,Illustrative uniform prediction
+KL(p_example || q_example),0.27807190511263774,Illustrative asymmetry example
+KL(q_example || p_example),0.32192809488736235,Illustrative asymmetry example

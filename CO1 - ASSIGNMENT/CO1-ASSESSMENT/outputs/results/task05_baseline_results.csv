@@ -1,0 +1,7 @@
+features,algorithm,accuracy,macro_f1
+Raw RGB pixels,Logistic Regression,0.552,0.3882474770931338
+Raw RGB pixels,Linear SVM,0.49,0.3399501805741697
+Raw RGB pixels,Random Forest,0.444,0.24768331260973123
+PCA 100 components,Logistic Regression,0.542,0.3948203549026427
+PCA 100 components,Linear SVM,0.472,0.32725910914688106
+PCA 100 components,Random Forest,0.394,0.20870974760065236

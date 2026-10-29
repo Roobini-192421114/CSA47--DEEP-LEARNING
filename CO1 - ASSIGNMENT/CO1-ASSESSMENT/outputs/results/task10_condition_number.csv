@@ -1,0 +1,2 @@
+images_used,features_per_image,largest_eigenvalue,smallest_eigenvalue,numerical_tolerance,covariance_condition_number,effective_condition_number
+1000,768,4.880610797877734,5.629214269618921e-07,8.322918116410394e-13,8670145.715039792,8670145.715039792
