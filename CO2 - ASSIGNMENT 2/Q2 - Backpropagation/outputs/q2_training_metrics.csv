@@ -1,0 +1,14 @@
+metric,value
+seed,42
+dataset,simulated hospital-style data
+total_samples,1000
+train_samples,700
+validation_samples,150
+test_samples,150
+epochs,200
+final_train_loss,0.6619889583785612
+validation_loss,0.66918806056066
+test_loss,0.6682280024822789
+train_accuracy,0.5757142857142857
+validation_accuracy,0.5533333333333333
+test_accuracy,0.5533333333333333

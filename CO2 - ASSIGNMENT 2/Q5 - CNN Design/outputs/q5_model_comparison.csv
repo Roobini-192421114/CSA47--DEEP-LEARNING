@@ -1,0 +1,3 @@
+model,total_parameters,first_layer_parameters,test_accuracy,training_seconds
+Fully Connected,101770,100480,0.824,4.7745437999255955
+CNN,67530,160,0.846,7.982124000089243

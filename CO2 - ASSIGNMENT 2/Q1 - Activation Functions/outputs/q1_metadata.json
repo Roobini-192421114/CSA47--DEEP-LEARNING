@@ -1,0 +1,26 @@
+{
+  "dataset": "Fashion-MNIST",
+  "official_train_size": 60000,
+  "official_test_size": 10000,
+  "used_train_size": 6000,
+  "used_validation_size": 1000,
+  "used_test_size": 1000,
+  "input_shape": [
+    1,
+    28,
+    28
+  ],
+  "classes": 10,
+  "device": "cpu",
+  "epochs": 5,
+  "runs": 3,
+  "batch_size": 128,
+  "learning_rate": 0.01,
+  "base_seed": 42,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "note": "Validation subset is taken from the official training partition; test subset is from official test partition."
+}

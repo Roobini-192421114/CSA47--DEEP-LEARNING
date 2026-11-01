@@ -1,0 +1,3 @@
+model,test_loss,clean_test_accuracy,training_time_seconds,trainable_parameters
+Baseline CNN,0.4064849624633789,0.852,7.76190789998509,67530
+Translation-Augmented CNN,0.4881663212776184,0.813,8.697332100011408,67530

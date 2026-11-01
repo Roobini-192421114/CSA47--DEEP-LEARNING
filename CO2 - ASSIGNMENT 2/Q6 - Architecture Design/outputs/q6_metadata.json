@@ -1,0 +1,13 @@
+{
+  "dataset": "Fashion-MNIST",
+  "seed": 42,
+  "device": "cpu",
+  "train_samples": 4000,
+  "validation_samples": 1000,
+  "test_samples": 1000,
+  "epochs": 4,
+  "batch_size": 64,
+  "macs_note": "Approximate multiply-accumulate count for one 28x28 image; bias additions, activations and pooling comparisons are not included.",
+  "latency_note": "Measured CPU forward-pass latency for a batch of one, averaged over repeated runs after warm-up. It is environment-dependent.",
+  "limitations": "One training run per architecture; results are exploratory, not a three-seed statistical comparison."
+}

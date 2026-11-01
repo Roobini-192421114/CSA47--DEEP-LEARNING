@@ -1,0 +1,20 @@
+{
+  "seed": 42,
+  "dataset": "Fashion-MNIST",
+  "dataset_source": "C:\\Users\\sarav\\Downloads\\C02 - DL - ASSIGNMENT 2\\CO2 - ASSIGNMENT\\Q1 - Activation Functions\\data",
+  "train_samples_baseline": 5000,
+  "train_samples_overfit": 500,
+  "validation_samples": 1000,
+  "test_samples": 1000,
+  "classes": 10,
+  "epochs": 12,
+  "batch_size": 128,
+  "device": "cpu",
+  "regularization_methods": [
+    "L2 weight decay",
+    "Dropout",
+    "Early stopping",
+    "Data augmentation",
+    "Dropout plus L2"
+  ]
+}

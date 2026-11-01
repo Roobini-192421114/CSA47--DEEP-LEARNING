@@ -1,0 +1,11 @@
+model,shift_x,shift_y,accuracy
+Baseline CNN,0,0,0.852
+Baseline CNN,2,0,0.606
+Baseline CNN,-2,0,0.625
+Baseline CNN,0,2,0.701
+Baseline CNN,0,-2,0.767
+Translation-Augmented CNN,0,0,0.813
+Translation-Augmented CNN,2,0,0.796
+Translation-Augmented CNN,-2,0,0.782
+Translation-Augmented CNN,0,2,0.783
+Translation-Augmented CNN,0,-2,0.776

@@ -1,0 +1,11 @@
+model,shift_x,shift_y,test_accuracy
+Fully Connected,0,0,0.824
+Fully Connected,2,0,0.572
+Fully Connected,-2,0,0.572
+Fully Connected,0,2,0.683
+Fully Connected,0,-2,0.692
+CNN,0,0,0.846
+CNN,2,0,0.583
+CNN,-2,0,0.602
+CNN,0,2,0.722
+CNN,0,-2,0.724

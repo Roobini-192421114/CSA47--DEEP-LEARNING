@@ -1,0 +1,30 @@
+{
+  "seed": 42,
+  "dataset": "Fashion-MNIST",
+  "train_samples": 5000,
+  "validation_samples": 1000,
+  "test_samples": 1000,
+  "epochs": 5,
+  "batch_size": 64,
+  "device": "cpu",
+  "input_shape": [
+    1,
+    28,
+    28
+  ],
+  "conv1_output_shape": [
+    16,
+    28,
+    28
+  ],
+  "pool_output_shape": [
+    16,
+    14,
+    14
+  ],
+  "conv2_output_shape": [
+    32,
+    14,
+    14
+  ]
+}

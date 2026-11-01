@@ -1,0 +1,12 @@
+{
+  "dataset": "Fashion-MNIST",
+  "seed": 42,
+  "device": "cpu",
+  "training_samples": 5000,
+  "validation_samples": 1000,
+  "test_samples": 1000,
+  "epochs": 5,
+  "batch_size": 64,
+  "redesign": "Random zero-filled translations up to two pixels during training",
+  "limitation": "One seed and a small subset; findings are exploratory. Robustness must be judged from measured results."
+}
