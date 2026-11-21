@@ -1,0 +1,4 @@
+EXPERIMENT 50: CHARACTER-LEVEL RNN TEXT GENERATION
+Training text: 'deep learning models learn patterns. '
+Generated text: 'deep learn pattern learn pattern learn pattern le'
+Vocabulary size: 15

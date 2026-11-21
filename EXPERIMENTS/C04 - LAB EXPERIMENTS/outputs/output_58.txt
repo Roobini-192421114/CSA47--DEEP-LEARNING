@@ -1,0 +1,4 @@
+EXPERIMENT 58: STACKED RNN FOR MACHINE CONDITION FORECASTING
+Input signals: vibration, temperature, pressure
+Test temperature MAE: 0.762
+Predicted next machine temperature: 47.97

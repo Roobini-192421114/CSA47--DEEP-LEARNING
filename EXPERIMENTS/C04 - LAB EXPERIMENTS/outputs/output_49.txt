@@ -1,0 +1,8 @@
+EXPERIMENT 49: RNN SENTIMENT CLASSIFICATION
+good product           -> Positive (score=0.73, actual=1)
+excellent quality      -> Positive (score=0.73, actual=1)
+happy with purchase    -> Positive (score=0.73, actual=1)
+bad product            -> Positive (score=0.50, actual=0)
+poor quality           -> Positive (score=0.50, actual=0)
+not happy              -> Positive (score=0.50, actual=0)
+Note: Small demonstration dataset; use a larger labelled review dataset for real evaluation.

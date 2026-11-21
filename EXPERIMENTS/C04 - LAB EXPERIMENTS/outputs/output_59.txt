@@ -1,0 +1,8 @@
+EXPERIMENT 59: VANISHING GRADIENT IN A SIMPLE RNN
+Sequence steps= 5 | gradient magnitude=0.03125000
+Sequence steps=10 | gradient magnitude=0.00097656
+Sequence steps=20 | gradient magnitude=0.00000095
+Sequence steps=40 | gradient magnitude=0.00000000
+Sequence steps=60 | gradient magnitude=0.00000000
+The gradient becomes very small over long sequences, making early time steps hard to learn.
+LSTM/GRU gates help preserve information and improve gradient flow.

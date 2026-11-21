@@ -1,0 +1,5 @@
+EXPERIMENT 52: ELECTRICITY CONSUMPTION FORECASTING WITH RNN
+Training samples: 198; Testing samples: 50
+MAE=0.0505, MSE=0.0037, RMSE=0.0609
+Next predicted normalized demand: 0.884
+Synthetic time-series demonstration; replace with actual electricity data for a real forecast.

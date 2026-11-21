@@ -1,0 +1,6 @@
+EXPERIMENT 64: RECURSIVE NEURAL NETWORK FOR SENTIMENT
+good movie         -> Positive (0.50)
+poor service       -> Negative (-0.50)
+excellent movie    -> Positive (0.50)
+bad service        -> Negative (-0.50)
+The recursive function combines child-node representations to form a sentence representation.

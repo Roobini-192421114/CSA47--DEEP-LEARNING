@@ -1,0 +1,6 @@
+EXPERIMENT 60: EFFECT OF OBSERVATION WINDOW LENGTH
+Window= 5 | Test MAE=0.0483
+Window=10 | Test MAE=0.0486
+Window=20 | Test MAE=0.0476
+Window=30 | Test MAE=0.0458
+A suitable window balances useful history and unnecessary sequence length.

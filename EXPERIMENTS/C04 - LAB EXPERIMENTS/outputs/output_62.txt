@@ -1,0 +1,5 @@
+EXPERIMENT 62: RNN ELECTRICITY FORECASTING METRICS
+MAE  = 0.04393
+MSE  = 0.00310
+RMSE = 0.05569
+Lower values indicate predictions closer to actual consumption.

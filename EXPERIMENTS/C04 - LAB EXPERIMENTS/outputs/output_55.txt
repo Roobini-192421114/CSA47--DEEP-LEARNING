@@ -1,0 +1,4 @@
+EXPERIMENT 55: STOCK PRICE TREND PREDICTION USING LSTM
+Test MAE: 1.652; MSE: 3.497; RMSE: 1.870
+Last actual price: 107.27; predicted: 104.96
+Synthetic stock-price series only; not financial advice or a real market forecast.

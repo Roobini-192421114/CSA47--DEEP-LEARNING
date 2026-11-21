@@ -1,0 +1,8 @@
+EXPERIMENT 61: LSTM HYPERPARAMETER EXPERIMENT
+Hidden units= 4, learning-rate setting=0.01, MAE=0.1760
+Hidden units= 4, learning-rate setting=0.05, MAE=0.1761
+Hidden units= 8, learning-rate setting=0.01, MAE=0.1760
+Hidden units= 8, learning-rate setting=0.05, MAE=0.1760
+Hidden units=12, learning-rate setting=0.01, MAE=0.1760
+Hidden units=12, learning-rate setting=0.05, MAE=0.1760
+Compare test error; select settings that generalize well without unnecessary complexity.

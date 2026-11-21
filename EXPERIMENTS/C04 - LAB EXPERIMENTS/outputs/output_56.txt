@@ -1,0 +1,4 @@
+EXPERIMENT 56: GRU WEATHER FORECASTING
+Weather inputs: temperature, humidity, atmospheric pressure
+Test temperature MAE: 3.628
+Forecast next temperature: 20.5 °C

@@ -1,0 +1,12 @@
+EXPERIMENT 63: CUSTOMER MESSAGE CLASSIFICATION
+refund please        -> Complaint
+money returned       -> Refund
+bad service          -> Complaint
+cancel order         -> Complaint
+great support        -> Appreciation
+thank you            -> Appreciation
+excellent help       -> Appreciation
+very poor            -> Complaint
+Refund: precision=1.00, recall=0.50, F1=0.67
+Complaint: precision=0.75, recall=1.00, F1=0.86
+Appreciation: precision=1.00, recall=1.00, F1=1.00

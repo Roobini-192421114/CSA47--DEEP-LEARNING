@@ -1,0 +1,4 @@
+EXPERIMENT 54: RNN AND LSTM COMPARISON
+RNN MAE: 0.0494
+LSTM-style MAE: 0.1132
+LSTM uses gated cell memory to retain useful information.

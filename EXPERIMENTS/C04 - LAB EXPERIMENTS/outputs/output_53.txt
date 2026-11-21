@@ -1,0 +1,5 @@
+EXPERIMENT 53: RNN-STYLE NEXT WORD PREDICTION
+After 'deep' -> 'learning'
+After 'learning' -> 'is'
+After 'recurrent' -> 'networks'
+This is a lightweight sequence-baseline demonstration. A trained RNN can learn longer context.

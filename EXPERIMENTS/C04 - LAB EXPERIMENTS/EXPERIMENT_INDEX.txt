@@ -1,0 +1,18 @@
+VISIBLE UNIT 4 EXPERIMENTS INCLUDED
+49 - RNN-based sentiment classification
+50 - Character-level RNN text generation
+52 - RNN electricity consumption forecasting
+53 - RNN-based next-word prediction
+54 - RNN and LSTM comparison
+55 - LSTM stock-price trend prediction
+56 - GRU weather forecasting
+57 - RNN, LSTM and GRU comparison
+58 - Stacked RNN machine-condition forecasting
+59 - Vanishing-gradient demonstration
+60 - Effect of observation-window length
+61 - LSTM hyperparameter experiment
+62 - MAE, MSE and RMSE for RNN forecasting
+63 - RNN customer-message classification
+64 - Recursive neural network sentiment classification
+
+Note: Experiment 51 was not shown in the two screenshots, so it is not included.

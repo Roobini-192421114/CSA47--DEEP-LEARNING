@@ -1,0 +1,5 @@
+EXPERIMENT 57: COMPARISON OF RNN, LSTM AND GRU
+RNN final hidden state: 0.7461
+LSTM final hidden state: 0.2958
+GRU final hidden state: 0.7999
+RNN: simple state; LSTM: separate cell memory and gates; GRU: update and reset gates.
